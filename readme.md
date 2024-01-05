@@ -2,7 +2,7 @@
 
 Welcome to JailMaster, your go-to Python application for managing and monitoring user login credentials. Because even jails need good management! 🏢🔒 This README provides the scoop on setting up, running, and contributing to the project. Buckle up, we're on a mission! 🤠
 
-🔗 [JailMaster Repository](https://github.com/j-a-y-e-s-h/jailmaster.git)
+🔗 [JailMaster Repository](https://github.com/kamlesh-IY9/jailmaster.git)
 
 
 ## Installation 🛠️
@@ -10,7 +10,7 @@ Welcome to JailMaster, your go-to Python application for managing and monitoring
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/j-a-y-e-s-h/jailmaster.git
+   https://github.com/kamlesh-IY9/jailmaster.git
    ```
 2. Install the required dependencies:
 
