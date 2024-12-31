@@ -6,7 +6,7 @@ from gui.main_window.main import mainWindow
 
 root = tk.Tk()  # Make temporary window for app to start
 root.withdraw()  # WithDraw the window
-
+          
 
 if __name__ == "__main__":
 
